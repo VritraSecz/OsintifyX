@@ -7,7 +7,7 @@
     + To use OsintifyX, you must log in with a fake account. The developer will not obtain any of your personal details during the login process.
 
 ## Ownership and Distribution:
-    + OsintifyX is the intellectual property of the developer, Alex Butler (MrHacker-X). All rights, title, and interest in the tool belong to the developer.
+    + OsintifyX is the intellectual property of the developer, Alex Butler (VritraSecz). All rights, title, and interest in the tool belong to the developer.
     + You are granted a non-exclusive, non-transferable license to use OsintifyX for personal or non-commercial purposes only. Selling, distributing, or modifying the tool without explicit permission from the developer is strictly prohibited.
 
 ## Limitation of Liability: 
@@ -29,4 +29,4 @@
 
     + Use OsintifyX responsibly, respect the privacy of others, and abide by all applicable laws and regulations. Together, let's explore the world of Instagram with integrity and ethical conduct.
 
-      +  `Last updated: 13 july 2023`
+      +  `Last updated: 15 july 2023`

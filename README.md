@@ -1,12 +1,12 @@
 <h1 align="center">OsintifyX</h1>
 
-<p align="center"> 
-  <img src="https://img.shields.io/github/stars/MrHacker-X/OsintifyX?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/MrHacker-X/OsintifyX?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/MrHacker-X/OsintifyX?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/MrHacker-X/OsintifyX?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/MrHacker-X/OsintifyX?style=for-the-badge&color=blue"><br>
-  <img src="https://hits.dwyl.com/MrHacker-X/OsintifyX.svg" width="140" height="28">
+<p align="center">
+  <img src="https://img.shields.io/github/stars/VritraSecz/OsintifyX?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/VritraSecz/OsintifyX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/VritraSecz/OsintifyX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/VritraSecz/OsintifyX?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/VritraSecz/OsintifyX?style=for-the-badge&color=blue"><br>
+  <img src="https://hits.dwyl.com/VritraSecz/OsintifyX.svg" width="140" height="28">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
@@ -48,8 +48,7 @@
 + ` apt-get install git python python-pip -y ` [For Termux]
 + ` apt-get install git python3 python3-pip -y ` [For Linux]
 + ` pip install instaloader `
-+ ` pip install tabulate `
-+ ` git clone https://github.com/MrHacker-X/osintifyX.git `
++ ` git clone https://github.com/VritraSecz/osintifyX.git `
 + ` cd OsintifyX `
 + ` nano credx.py `
 > Now put your fake instagram id, password in that file. and save it by ` ctrl + s ` and exit the file by ` ctrl + x ` 
@@ -61,20 +60,21 @@
 
 ![photo](https://i.ibb.co/wdgdmqJ/Screenshot-2023-07-13-16-44-13.png)
 
-## Note
-+ This is not complete version
-
 ## Terms & Conditions
 
-+ Before you use this tool, read [Terms and Conditions](https://github.com/MrHacker-X/OsintifyX/blob/main/TERMS.md) first.
++ Before you use this tool, read [Terms and Conditions](https://github.com/VritraSecz/OsintifyX/blob/main/TERMS.md) first.
 
 ## Disclaimer
 
-+ This version is Not complete version so it can fail somtimes. Also this tool is made for educational and research purposes only, i do not assume any kind of responsibility for any imprope use of this tool.
++ This tool is intended for educational and ethical purposes only. The developers of OsintifyX are not responsible for any misuse or illegal activities carried out with this tool. Use it responsibly and respect the privacy of others.
 
 ## Contribution
 
 + Contributions to OsintifyX are always welcome! If you find any issues or have suggestions for improvement, please open an issue on the GitHub repository. Feel free to fork the project and submit pull requests as well.
+
+## Acknowledgements
+
++ We would like to thank all the contributors who have helped in the development of OsintifyX and made it a useful tool for the OSINT community.
 
 ## Donation
 
@@ -86,11 +86,11 @@
 
 <h3><b><i>📡 Connect with us :</i></b></h3>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram)](https://telegram.me/hackwithalex)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram)](https://telegram.me/VritraSec)
 <br>
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Technolex)
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat-square&logo=instagram)](https://www.instagram.com/haxorlex)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/MrHacker-X)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/VritraSecz)
 
